@@ -14,11 +14,11 @@ See [PLAN.md](./PLAN.md) for scope and non-goals.
 ## Install
 
 ```go
-import "github.com/macabc/gosk"
+import "github.com/ABCslime/gosk"
 ```
 
 ```sh
-go get github.com/macabc/gosk@latest
+go get github.com/ABCslime/gosk@latest
 ```
 
 ## Use

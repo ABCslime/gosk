@@ -1,4 +1,4 @@
-module github.com/macabc/gosk
+module github.com/ABCslime/gosk
 
 go 1.26.1
 

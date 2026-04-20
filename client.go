@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"sync"
 
-	"github.com/macabc/gosk/state"
+	"github.com/ABCslime/gosk/state"
 )
 
 // Client is gosk's public surface. Zero value is not usable; construct with New.

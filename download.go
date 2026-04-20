@@ -10,7 +10,7 @@ import (
 	"github.com/bh90210/soul"
 	"github.com/bh90210/soul/peer"
 
-	"github.com/macabc/gosk/state"
+	"github.com/ABCslime/gosk/state"
 )
 
 // Download enqueues a transfer from `peer` for `filename`. The returned

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/macabc/gosk/state"
+	"github.com/ABCslime/gosk/state"
 )
 
 func TestPersist_WritesToStoreOnStateChange(t *testing.T) {

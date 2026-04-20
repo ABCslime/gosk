@@ -53,7 +53,7 @@ What we add:
 
 ```
 gosk/
-├── go.mod                  # module github.com/macabc/gosk
+├── go.mod                  # module github.com/ABCslime/gosk
 ├── go.sum
 ├── PLAN.md                 # this file
 ├── README.md               # usage-facing doc
